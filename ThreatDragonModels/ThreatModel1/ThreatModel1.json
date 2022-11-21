@@ -9,8 +9,8 @@
     "diagrams": [
       {
         "title": "Diagram1",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
-        "diagramType": "STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "diagramType": "CIA",
         "id": 0,
         "diagramJson": {
           "cells": [
