@@ -278,6 +278,17 @@
                   "description": "A generic DoS threat",
                   "mitigation": "rate limiting",
                   "threatId": "0eb9e56f-a417-46d2-88dc-31bfe22c6b6b"
+                },
+                {
+                  "ruleId": "4adaa48a-0345-4533-a189-64c98c4420dd",
+                  "title": "Generic tampering threat",
+                  "type": "Tampering",
+                  "modelType": "STRIDE",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "description": "A generic tampering threat",
+                  "mitigation": "Mitigation or prevention for the threat",
+                  "threatId": "ccd3e6a0-e263-4af1-acea-7c0486af27d3"
                 }
               ],
               "attrs": {
