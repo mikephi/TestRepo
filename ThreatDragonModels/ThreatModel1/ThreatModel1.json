@@ -267,6 +267,19 @@
               "isEncrypted": true,
               "isPublicNetwork": true,
               "protocol": "https",
+              "threats": [
+                {
+                  "ruleId": "edb05d76-a695-455f-947b-7d67b78bc31d",
+                  "title": "Generic DoS threat",
+                  "type": "Denial of service",
+                  "modelType": "STRIDE",
+                  "status": "Mitigated",
+                  "severity": "Medium",
+                  "description": "A generic DoS threat",
+                  "mitigation": "rate limiting",
+                  "threatId": "0eb9e56f-a417-46d2-88dc-31bfe22c6b6b"
+                }
+              ],
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
